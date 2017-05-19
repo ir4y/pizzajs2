@@ -11,7 +11,8 @@ export default StyleSheet.create({
         flex: 1,
     },
     dropZone: {
-        height: 100,
+        paddingTop: 75,
+        height: 150,
         backgroundColor: '#2c3e50',
     },
     text: {

@@ -8,6 +8,6 @@ import {
   AppRegistry,
 } from 'react-native';
 
-import Viewport from './app/viewport';
+import Main from './app/main';
 
-AppRegistry.registerComponent('DragAndDrop', () => Viewport);
+AppRegistry.registerComponent('DragAndDrop', () => Main);
